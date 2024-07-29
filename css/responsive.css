@@ -9,18 +9,18 @@
 		font-size:17px;
 	}
 	.yoga-template .banner .banner-content .content-col {
-		padding-left: 30px;
+		padding-left: 10px;
 	}
 	/*Service*/
 	.yoga-template .service-section .service-detail > div {
 		margin-bottom: 40px;
 	}
 	.yoga-template .best-class-club .detail-col-club {
-		padding-right: 15px;
+		padding-right: 10px;
 	}
 	/*Class Yoga Club*/
 	.yoga-template .best-class-club .best-class-club-desc {
-		padding: 60px 30px;
+		padding: 20px 30px;
 	}
 	.yoga-template .best-class-club .best-class-club-img {
 		padding: 250px 0;
@@ -60,7 +60,7 @@
 	}
 	/*Yoga Place*/
 	.yoga-template .yogaPlace-section .yogaPlace-col > div{
-		margin-bottom: 40px;
+		margin-bottom: 10px;
 	}
 	/*Contact us*/
 	.yoga-template .contact-section .appointment 
