@@ -85,6 +85,8 @@ a {
 	height: auto;
 	color:#fff;
 	position: relative;
+        animation: fadeIn 2s ease-in-out forwards;
+
 }
 .yoga-template .banner .banner-overlay {
 	position: absolute;
@@ -257,6 +259,8 @@ a {
     background-size: cover;
     background-position: center right;
     background-repeat: repeat;
+    animation: fadeIn 2s ease-in-out forwards;
+
 }
 /*Advantages*/
 .yoga-template .advantages-section {
@@ -267,6 +271,8 @@ a {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    animation: fadeIn 2s ease-in-out forwards;
+
 }
 .yoga-template .advantages-section .advantages-detail a:hover {
 	text-decoration: none;
@@ -333,10 +339,14 @@ a {
     border-radius: 50%;
     margin: 0 auto 18px;
     overflow: hidden;
+    animation: fadeIn 2s ease-in-out forwards;
+
 }
 .yoga-template .yogaPlace-section .yogaPlace-img .yogaPlace-in-img {
 	max-width: 145px;
     border-radius: 50%;
+  animation: fadeIn 2s ease-in-out forwards;
+
 }
 .yoga-template .yogaPlace-section .yogaPlace-col a:hover {
 	text-decoration: none;
